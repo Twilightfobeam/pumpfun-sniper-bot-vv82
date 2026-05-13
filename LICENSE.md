@@ -1,4 +1,4 @@
-# 
+# new pump.fun sniper bot | front-running + honeypot-detection offers the most advanced pump.fun sniper bot, with front-running and honeypot-detection. Ideal for professional MEV
 
 
 
